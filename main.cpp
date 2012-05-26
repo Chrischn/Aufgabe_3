@@ -15,12 +15,6 @@ int main()
 	{
 		cout << "Waehlen sie den gewuenschten Modus:" << endl << endl;
 		cout << "Moegliche Modi:" << endl;
-		cout << "m : neues Medium anlegen" << endl;
-		cout << "l : Medium ausgeben" << endl;
-		cout << "e : Medium entleihen" << endl;
-		cout << "r : Medium zurueckgeben" << endl;
-		cout << "d : Medium loeschen" << endl;
-		cout << "q : beenden" << endl << endl;
 		cout << "Modus: "; 
 		cin >> modus;																		//Einlesen des gewuenschten Modus in Variable 'modus'
 		cout << endl;
